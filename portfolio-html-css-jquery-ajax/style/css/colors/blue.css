@@ -1,0 +1,39 @@
+a, 
+h1, 
+h2, 
+h3, 
+h4, 
+h5, 
+h6, 
+.header #top-menu li.active a, 
+.header #top-menu li a:hover, 
+.jta-tweet-list-controls, 
+.fn-newsPreviewText h3, 
+#fn-newsFooterBar, 
+#newsFooterText, 
+#fn-newsViewTitle,
+span#fn-previousButton:after, 
+#fn-newsViewHtml a {
+	color: #7da1bc;
+}
+a.button:hover, .forms fieldset .btn-submit:hover {
+	background-color: #577f9d;
+}
+a:hover,
+.jta-tweet-timestamp a:hover,
+.jta-tweet-inreplyto a:hover,
+.jta-tweet-list-controls-button-prev:hover, 
+.jta-tweet-list-controls-button-next:hover,
+#portfolio #nav a.activeSlide,
+#fn-newsViewClose:hover,
+span#fn-previousButton:hover, 
+span#fn-nextButton:hover {
+	color: #ab4d63;
+}
+
+a.button, .forms fieldset .btn-submit {
+	background-color: #456c8a;
+	color: #181818;
+}
+
+
